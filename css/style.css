@@ -1,0 +1,29 @@
+/* H2 and section padding */
+h2{
+    padding-bottom: 10px;
+}
+section{
+    padding-bottom: 20px;
+}
+
+
+/* Box */
+.box{
+    height: 50px;
+    padding: 10px;
+    background-color: #006cfa;
+    color: white;
+    text-align: center;
+    border: 1px solid white;
+    font: 18px;
+}
+
+/* Nested box */
+.nested-box{
+    background-color: lightgreen;
+    border: 1px solid white;
+    height: 100%;
+    font-size: 15px;
+    padding: 5px;
+}
+
